@@ -1,2 +1,2 @@
-Hello,I am branch featureA! 
+Hello,I am branch master! 
 
