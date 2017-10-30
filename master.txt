@@ -1,3 +1,2 @@
 Hello,I am branch master! 
 Hello,I am a great branch featureA! 
-Hi
