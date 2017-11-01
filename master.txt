@@ -2,3 +2,4 @@ Hello,I am branch master!
 Hello,I am a great branch featureA! 
 Hello,I am a test branch featureB!
 暂存区大法好
+checkout测试数据--苹果
